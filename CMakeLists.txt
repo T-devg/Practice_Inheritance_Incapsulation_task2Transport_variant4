@@ -7,4 +7,6 @@ add_executable(Practice_Inheritance_Incapsulation_task2Transport_variant4 main.c
         Transport.cpp
         Transport.h
         Car.cpp
-        Car.h)
+        Car.h
+        Train.cpp
+        Train.h)
