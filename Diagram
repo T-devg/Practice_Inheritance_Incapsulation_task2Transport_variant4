@@ -1,0 +1,4 @@
+                           Transport(Base)
+                (public)---            --- (public)
+               Train                             Car
+
