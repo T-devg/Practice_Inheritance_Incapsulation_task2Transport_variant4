@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Practice_Inheritance_Incapsulation_task2Transport_variant4 main.cpp
         Transport.cpp
-        Transport.h)
+        Transport.h
+        Car.cpp
+        Car.h)
